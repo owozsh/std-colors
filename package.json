@@ -1,0 +1,34 @@
+{
+  "name": "std",
+  "publisher": "owozsh",
+  "displayName": "std",
+  "description": "",
+  "version": "5.0.1",
+  "repository": "https://github.com/owozsh/std-colors",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "std::river",
+        "uiTheme": "vs-dark",
+        "path": "./colors/std::river.json"
+      },
+      {
+        "label": "std::coffee",
+        "uiTheme": "vs-dark",
+        "path": "./colors/std::coffee.json"
+      },
+      {
+        "label": "std::wine",
+        "uiTheme": "vs-dark",
+        "path": "./colors/std::wine.json"
+      }
+    ]
+  },
+  "icon": "icon.png"
+}
