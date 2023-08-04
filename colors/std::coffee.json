@@ -88,7 +88,7 @@
     "scrollbarSlider.activeBackground": "#B3B4AE",
     "sideBarSectionHeader.background": "#B3B4AE20",
     "statusBarItem.hoverBackground": "#B3B4AE30",
-    "editor.selectionBackground": "#B3B4AE80",
+    "editor.selectionBackground": "#B3B4AE1A",
     "menu.separatorBackground": "#B3B4AE",
     "editor.wordHighlightBackground": "#B3B4AE10",
     "editor.selectionHighlightBackground": "#B3B4AE10",
