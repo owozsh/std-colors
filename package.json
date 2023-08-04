@@ -3,7 +3,7 @@
   "publisher": "owozsh",
   "displayName": "std",
   "description": "",
-  "version": "6.0.1",
+  "version": "6.0.2",
   "repository": "https://github.com/owozsh/std-colors",
   "engines": {
     "vscode": "^1.65.0"
