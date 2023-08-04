@@ -1,9 +1,9 @@
 {
   "name": "std",
   "publisher": "owozsh",
-  "displayName": "std",
+  "displayName": "std colorscheme",
   "description": "",
-  "version": "5.0.1",
+  "version": "6.0.0",
   "repository": "https://github.com/owozsh/std-colors",
   "engines": {
     "vscode": "^1.65.0"
