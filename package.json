@@ -3,7 +3,7 @@
   "publisher": "owozsh",
   "displayName": "std",
   "description": "",
-  "version": "8.0.1",
+  "version": "9.0.1",
   "repository": "https://github.com/owozsh/std-colors",
   "engines": {
     "vscode": "^1.65.0"
@@ -22,6 +22,11 @@
         "label": "gruvbox",
         "uiTheme": "vs-dark",
         "path": "./out/gruvbox.json"
+      },
+      {
+        "label": "solarized",
+        "uiTheme": "vs-dark",
+        "path": "./out/solarized.json"
       }
     ]
   },
